@@ -16,7 +16,7 @@ Contact us:
 * [Instagram](https://instagram.com/pchas.ir/)
 * [Twitter](https://instagram.com/pchas.ir/)
 * [Telegram](https://instagram.com/pchas.ir/)
-* [LinkedIn] (https://www.linkedin.com/company/pcha)
+* [LinkedIn](https://www.linkedin.com/company/pcha)
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
