@@ -28,6 +28,6 @@ Start Prices:
 * Android/iOS Design and Development starts at 3000$
 * Game Development starts at 5000$
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to Send message to us.
 
 Thanks for reading!
