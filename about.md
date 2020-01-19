@@ -14,7 +14,7 @@ Contact us:
 * [Website](https://pchas.ir)
 * [Email](mailto://info@pchas.ir)
 * [Instagram](https://instagram.com/pchas.ir/)
-* [Tweeter](https://instagram.com/pchas.ir/)
+* [twitter](https://instagram.com/pchas.ir/)
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
