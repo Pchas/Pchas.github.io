@@ -7,7 +7,7 @@ title: About
   Hey there! Feel free to contact us, We will be glad to answer your questions and help you out.
 </p>
 
-The name, *Pchas*, comes from a word in gilaki language,  'پیچا' pronounced like peecha, it means cat since we are a team we used it in plural and since there is no 'I' in a team we removed 'i' from it (Actually we removed i because of domain name.).
+The name, *Pchas*, comes from a word in gilaki language,  'پیچا' pronounced like picha, it means cat. since we are a team we used it in plural and since there is no 'I' in a team we removed 'i' from it (Actually we removed i because of domain name.).
 
 Contact us:
 
