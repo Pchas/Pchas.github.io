@@ -24,10 +24,10 @@ Learn more and contribute on [GitHub](https://github.com/poole).
 
 Start Prices:
 > We are open to your offers, these prices are only to give you a view.
+
 * Website Design and Development starts at 1000$
 * Android/iOS Design and Development starts at 3000$
 * Game Development starts at 5000$
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
